@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni00A0"/>
+      <psName name="longs"/>
+      <psName name="AEacute"/>
+      <psName name="aeacute"/>
+      <psName name="Oslashacute"/>
+      <psName name="oslashacute"/>
+      <psName name="Scommaaccent"/>
+      <psName name="scommaaccent"/>
+      <psName name="uni021A"/>
+      <psName name="uni021B"/>
+      <psName name="dotlessj"/>
+      <psName name="uni03A9"/>
+      <psName name="Euro"/>
+      <psName name="f_f"/>
+      <psName name="f_f_i"/>
+      <psName name="f_f_l"/>
+      <psName name="s_t"/>
+      <psName name="f_j"/>
+    </extraNames>
+  </post>
+
+</ttFont>
